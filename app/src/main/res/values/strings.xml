@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Best of Destinations</string>
+    <string-array name="destination_name">
+        <item>Grand Canyon</item>
+        <item>Pyramida Giza</item>
+        <item>Boracay Beach</item>
+        <item>Salar de Uyuni</item>
+        <item>Great Wall of China</item>
+        <item>Machu Picchu</item>
+        <item>Colosseum</item>
+        <item>Borubudur Temple</item>
+        <item>Eiffel Tower</item>
+        <item>Tal Mahal</item>
+    </string-array>
+    <array name="destination_image">
+        <item>@drawable/a_green_canyon</item>
+        <item>@drawable/b_giza_pyramida</item>
+        <item>@drawable/c_boraca_beach</item>
+        <item>@drawable/d_salar_de_uyuni</item>
+        <item>@drawable/e_great_wall_of_china</item>
+        <item>@drawable/f_machu_pichu</item>
+        <item>@drawable/g_colloseum</item>
+        <item>@drawable/h_borobudur_temple</item>
+        <item>@drawable/i_eiffel_tower</item>
+        <item>@drawable/j_taj_mahal</item>
+    </array>
+    <string-array name="destination_info">
+        <item>Grand Canyon atau Ngarai Besar adalah sebuah ngarai tebing-terjal, diukir oleh Sungai Colorado, di utara Arizona. Ngarai ini merupakan satu dari Tujuh Keajaiban Dunia dan sebagian besar berada di Taman Nasional Grand Canyon salah satu taman nasional pertama di Amerika Serikat. Presiden Theodore Roosevelt merupakan salah satu pendukung utama wilayah Grand Canyon, mengunjunginya dalam beberapa kesempatan untuk berburu singa gunung dan menikmati pemandangan alam yang luar biasa.</item>
+        <item>Piramida Agung Giza adalah piramida tertua dan terbesar dari tiga piramida yang ada di Nekropolis Giza dan merupakan satu-satunya bangunan yang masih menjadi bagian dari Tujuh Keajaiban Dunia. Dipercaya bahwa piramida ini dibangun sebagai makam untuk firaun dinasti keempat Mesir, Khufu dan dibangun selama lebih dari 20 tahun dan diperkirakan berlangsung pada sekitar tahun 2560 SM. Piramida ini dulu disebut sebagai Piramida Khufu.</item>
+        <item>Boracay is a small island in the Philippines located approximately 315 kilometres 196 mi south of Manila and 2 kilometres 1.2 mi off the northwest tip of Panay Island in Western Visayas region of the Philippines. Boracay Island and its beaches have received awards from numerous travel publications and agencies. The island comprises the barangays of Manoc-Manoc, Balabag, and Yapak in the municipality of Malay, in Aklan Province. The island is administered by the Tourism Infrastructure and Enterprise Zone Authority and the provincial government of Aklan. Apart from its white sand beaches, Boracay is also famous for being one of the worlds top destinations for relaxation.As of 2013 it was emerging among the top destinations for tranquility and nightlife.</item>
+        <item>Salar de Uyuni atau Salar de Tunupa merupakan dataran garam terluas di dunia. Salar de Uyuni terletak di Departemen Potosi dan Oruro, Bolivia bagian tenggara, dekat puncak Andes, pada ketinggian 3650 m. Sekitar 40.000 tahun yang lalu, danau ini merupakan bagian dari Danau Michin, danau besar pada masa prasejarah. Ketika mengering, terdapat 2 danau yang tersisa, yakni Danau Poopó dan Uru Uru, serta 2 gurun garam terbesar, Salar de Coipasa dan Salar de Uyuni.</item>
+        <item>The Great Wall of China is the collective name of a series of fortification systems generally built across the historical northern borders of China to protect and consolidate territories of Chinese states and empires against various nomadic groups of the steppe and their polities. Several walls were being built from as early as the 7th century BC by ancient Chinese states selective stretches were later joined together by Qin Shi Huang 220–206 BC, the first Emperor of China. Little of the Qin wall remains. Later on, many successive dynasties have built and maintained multiple stretches of border walls. The most currently well-known of the walls were built by the Ming dynasty 1368–1644.</item>
+        <item>Machu Picchu bahasa Quechua Machu Pikchu, Gunung Tua sering juga disebut Kota Inca yang hilang adalah sebuah lokasi reruntuhan Inca pra-Columbus yang terletak di wilayah pegunungan pada ketinggian sekitar 2.350 m di atas permukaan laut. Machu Picchu berada di atas lembah Urubamba di Peru, sekitar 70 km barat laut Cusco.</item>
+        <item>Kolosseum adalah sebuah peninggalan bersejarah berupa arena gladiator, dibangun oleh Vespasian. Tempat pertunjukan yang besar berbentuk elips yang disebut amfiteater atau dengan nama aslinya Flavian Amphitheatre, yang termasuk salah satu dari Enam Puluh Sembilan Keajaiban Dunia Pertengahan. Situs ini terletak di kota kecil di Italia, Roma, yang didirikan oleh Wali kota Vespasian pada masa Domitianus dan diselesaikan oleh anaknya Titus, dan menjadi salah satu karya terbesar dari arsitektur Kerajaan Romawi yang pernah dibangun. Kolosseum dirancang untuk menampung 50.000 orang penonton.</item>
+        <item>Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi berbentuk stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia, sekaligus salah satu monumen Buddha terbesar di dunia.</item>
+        <item>The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Constructed from 1887 to 1889 as the entrance to the 1889 Worlds Fair, it was initially criticised by some of Frances leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable structures in the world. The Eiffel Tower is the most-visited paid monument in the world 6.91 million people ascended it in 2015.</item>
+        <item>Taj Mahal adalah sebuah monumen yang terletak di Agra, India. Dibangun atas keinginan Kaisar Mughal Shāh Jahān, anak Jahangir, sebagai sebuah musoleum untuk istri Persianya, Arjumand Banu Begum, juga dikenal sebagai Mumtaz-ul-Zamani atau Mumtaz Mahal. Taj Mahal merupakan sebuah adi karya dari arsitektur Mughal. Shah Jahan, kaisar dari Kekaisaran Mughal memiliki kekayaan yang besar selama masa kejayaannya. Pada 1631 istri ketiganya dan merupakan istri yang paling dicintainya wafat sewaktu melahirkan putrinya Gauhara Begum, anak ke-14 mereka.
+        </item>
+    </string-array>
+
+
+</resources>
